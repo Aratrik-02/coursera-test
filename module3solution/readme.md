@@ -1,2 +1,5 @@
-<h1>Module 3 solution</h1><br>
-<a href="https://aratrik-02.github.io/coursera-test/module3solution">Click to view site</a>
+# Module-3 Coding Assignment
+
+Coursera course: HTML, CSS, and Javascript for Web Developers
+
+# To see the output [CLICK HERE](https://aratrik-02.github.io/coursera-test/module3solution)
